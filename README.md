@@ -1,5 +1,7 @@
+<b>AhmedAntarMasoud</b>
+👋 <h1> Hi there! I'm AhmedAntarMasoud, a Data Analyst at IRAM Jewelry with a passion for turning data into actionable insights. </h1>
 
-👋 Hi there! I'm AhmedAntarMasoud, a Data Analyst at IRAM Jewelry with a passion for turning data into actionable insights. Here's a bit about me:
+ Here's a bit about me:
 
 📊 Data Analyst: At Egypt Gold, I use my Python and SQL skills to uncover insights and support CRM strategies, ultimately enhancing sales forecasting accuracy.
 
