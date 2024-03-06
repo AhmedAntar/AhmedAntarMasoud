@@ -18,4 +18,6 @@
 
 Let's explore the exciting possibilities that data holds together!
 
-<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" width='50'>
+<link href="https://www.linkedin.com/in/ahmedantar/">
+  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" width='250'>
+</link>
