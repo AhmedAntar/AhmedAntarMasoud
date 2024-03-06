@@ -14,12 +14,15 @@
 
 <h3>💼 Collaboration:</h3> I thrive in cross-functional team environments and enjoy learning new tools and techniques for solving complex data problems.
 
-<h3>🌐 Connect:</h3> I'm always open to connecting with fellow data enthusiasts, industry professionals, and like-minded individuals. 
+<h3>🌐 Connect: 
 
-Let's explore the exciting possibilities that data holds together!
+I'm always open to connecting with fellow data enthusiasts, industry professionals, and like-minded individuals. 
 
-<link href="https://www.linkedin.com/in/ahmedantar/"
- <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"  width='250'>
- />
+Let's explore the exciting possibilities that data holds together on:</h3> 
+<br>
+
+<a href="https://www.linkedin.com/in/ahmedantar/">
+ <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"  width='100'>
+<a/>
   
 
